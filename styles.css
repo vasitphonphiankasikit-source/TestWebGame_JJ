@@ -17,7 +17,7 @@ body {
   justify-content: flex-start;
 }
 h2{
-  font-size: 50px;
+  font-size: 40px;
   color: #333;
   margin: 0 0 20px 0;
 }
@@ -47,13 +47,13 @@ h3{
   margin-top: 20px;
 }
 .imageGame{
-  width: 700px;
+  width: 450px;
   height: auto;
   margin-bottom: 10px;
   animation: bounce 1s infinite;
 }
 .imageButton{
-  width: 450px;
+  width: 250px;
   height: auto; 
 }
 .board.grid-4 .card { 
@@ -234,7 +234,16 @@ section{
   align-content: center;
   margin-top: 20px;
   }
-
+  .imageGame{
+  width: 700px;
+  height: auto;
+  margin-bottom: 10px;
+  animation: bounce 1s infinite;
+  }
+ .imageButton{
+  width: 450px;
+  height: auto; 
+  }
   .board.grid-4 .card { 
     width: 160px; 
     height:160px; 
@@ -277,58 +286,4 @@ section{
   text-align: center;
   }
 }
-
-@media (max-width: 800px) and (min-height: 1496px) {
-  .board {
-  display: grid;
-  gap: 10px;
-  justify-content: center;
-  align-content: center;
-  margin-top: 20px;
-  }
-
-  .board.grid-4 .card { 
-    width: 160px; 
-    height:160px; 
-    font-size: 80px;
-  }
-  .board.grid-6 .card { 
-    width: 120px; 
-    height:120px; 
-    font-size: 70px;
-  }
-  .board.grid-8 .card { 
-    width: 80px; 
-    height: 80px; 
-    font-size: 50px; 
-  }
-
-  .win-message {
-    font-size: 55px;
-  }
-
-  .animated-title {
-    font-size: 65px;
-  }
-
-  .timer-display {
-    font-size: 55px;
-  }
-
-  button {
-    font-size: 55px;
-    padding: 20px 60px;
-  }
-  
-  select, label {
-  font-family: "Playpen Sans Thai", cursive;
-  font-size: 30px;
-  padding: 0 15px;
-  border-radius: 8px;
-  background-color: #06ef06;
-  text-align: center;
-  }
-
-}
-
 
