@@ -53,7 +53,7 @@ h3{
   animation: bounce 1s infinite;
 }
 .imageButton{
-  width: 300px;
+  width: 600px;
   height: auto; 
 }
 .board.grid-4 .card { 
@@ -328,4 +328,5 @@ section{
   background-color: #06ef06;
   text-align: center;
   }
+
 }
