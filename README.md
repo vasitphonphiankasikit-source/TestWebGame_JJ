@@ -1,5 +1,5 @@
 <h1>เกมจับคู่หรรษา</h1>
-link game: https://test-web-game-jj.vercel.app/
+
 
 <img src="Screenshot 2025-11-23 074530.png" width="auto" height="300px">
 ผมอยากสร้างเกมที่ทั้งสนุกและช่วยฝึกสมองได้ด้วย จึงเลือกเกมจับคู่ที่เล่นได้ทุกเพศทุกวัย โดยใช้ HTML, CSS และ JavaScript ที่ผมเรียนรู้มา
@@ -27,3 +27,5 @@ link game: https://test-web-game-jj.vercel.app/
  เข้าใจการจัดการ DOM, event, ฟังก์ชันแบบ modular และ responsive UI พร้อมฝึกการคิดเชิงตรรกะและการแก้ปัญหาแบบนักพัฒนา
 <h2>ความภาคภูมิใจ</h2>
 เกมที่ผมสร้างไว้ คือผลลัพธ์จากความตั้งใจและการเรียนรู้ ผมหวังว่าจะเป็นแรงบันดาลใจให้คนอื่นนำความรู้ไปสร้างสิ่งดี ๆ เช่นกัน
+
+link game: https://test-web-game-jj.vercel.app/
